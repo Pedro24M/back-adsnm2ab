@@ -1,6 +1,6 @@
 {
-  "name": "meuprojeto",
-  "version": "1.0.0",
+  "name": "meuprojeto2",
+  "version": "1..0",
   "description": "Este repositorio foi criado com o objetivo de armazenar e organizar os códigos desenvolvido durante as aulas e atividades praticas da disciplina.",
   "main": "index.js",
   "scripts": {
